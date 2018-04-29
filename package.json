@@ -1,0 +1,9 @@
+{
+  "name": "summer-learn-web",
+  "version": "1.0.0",
+  "description": "Summer Learn Bot is a website that allows you to learn more about Summer Learn at MVNU.",
+  "main": "app.js",
+  "author": "Emmanuel Singletary <me@manny.co>",
+  "license": "MIT",
+  "private": true
+}
